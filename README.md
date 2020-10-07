@@ -4,7 +4,7 @@ Pandas Challenge_PycitySchools
 Obeservations on PySchool data trends:
 Nagender Panyala
 
-Trend 1.	It seems the school budget is inversely proportional to the school performance. Schools that are smaller and have a smaller budget per student tend to perform better at both math and reading tests than students from larger schools with bigger budgets per student. 
+Trend 1.	It seems the school size and budget is inversely proportional to the school performance. Schools that are smaller and have a smaller budget per student tend to perform better at both math and reading tests than students from larger schools with bigger budgets per student. 
 
 Trend 2.	Charter schools tend to have a better performance than District schools.
 
